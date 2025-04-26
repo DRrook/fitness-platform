@@ -1,0 +1,12 @@
+Every time you make changes locally, you can check what changed by running:
+git status
+
+Then you commit them:
+git add .
+git commit -m "Added booking API for coach"
+
+Once you're ready to sync your work with GitHub:
+git push origin main
+
+Your partner should pull the latest version before starting work:
+git pull origin main
